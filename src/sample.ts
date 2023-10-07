@@ -1,4 +1,4 @@
-const func = (n: number) => {
+const funcA = (n: number) => {
   if (n <= 1){
     return
   } else {
